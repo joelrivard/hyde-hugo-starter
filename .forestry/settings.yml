@@ -5,7 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: heading
-  label: Hyde hyde hyde
+  label: Journée 3
+- type: heading
+  label: Journée 2
+- type: heading
+  label: Journée 1
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
